@@ -19,7 +19,7 @@
 #define MMA_845XQ_DEFAULT_ADDRESS 0x1C
 
 #include "Arduino.h"
-#include "../Wire/Wire.h"
+#include "Wire.h"
 
 ////////////////////////////////////////////
 // Interrupts
